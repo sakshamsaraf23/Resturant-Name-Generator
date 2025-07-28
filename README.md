@@ -7,7 +7,7 @@ Welcome to the Restaurant Name & Food Item Generator! This fun and creative tool
 - 🎯 Cuisine-based name generation (e.g., Indian, Italian, Chinese)
 - 🍕 Food item suggestions tailored to the selected cuisine
 - 😄 Creative, catchy, and even punny name suggestions
-- 🖥️ Optional Web UI using Streamlit
+- 🖥️ Web UI using Streamlit
 
 # 💻 Tech Stack
 
@@ -23,7 +23,7 @@ Welcome to the Restaurant Name & Food Item Generator! This fun and creative tool
 # 🚀 How to Run
 
 🧪 Run Locally (Command Line)
-git clone https://github.com/yourusername/restaurant-name-generator.git
+[git clone](https://github.com/yourusername/restaurant-name-generator.git)
 cd restaurant-name-generator
 python main.py
 
@@ -50,6 +50,5 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 Created with ❤️ by [Saksham Saraf]
-🔗 GitHub: github.com/sakshamsaraf23
-🔗 LinkedIn: linkedin.com/in/sakshamsaraf
-
+[🔗 GitHub](github.com/sakshamsaraf23)
+[🔗 LinkedIn](linkedin.com/in/sakshamsaraf)
