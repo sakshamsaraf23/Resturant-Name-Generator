@@ -22,7 +22,7 @@ Welcome to the Restaurant Name & Food Item Generator! This fun and creative tool
 
 # 🚀 How to Run
 
-🧪 Run Locally (Command Line)
+🧪 Run Locally (Command Line)  
 [git clone](https://github.com/yourusername/restaurant-name-generator.git)  
 cd restaurant-name-generator  
 python main.py  
@@ -49,6 +49,6 @@ Contributions are welcome!
 This project is licensed under the MIT License.
 
 # 👨‍💻 Author
-Created with ❤️ by [Saksham Saraf]
+Created with ❤️ by [Saksham Saraf]  
 [🔗 GitHub](github.com/sakshamsaraf23)  
 [🔗 LinkedIn](linkedin.com/in/sakshamsaraf)  
