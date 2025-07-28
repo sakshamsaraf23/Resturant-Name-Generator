@@ -1,2 +1,2 @@
-genapi_key='AIzaSyCGHfnC6HivEinMit8tJPKQVcbhUafh0C0'
+genapi_key=''
 secondkey=''
